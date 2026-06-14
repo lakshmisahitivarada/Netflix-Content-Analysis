@@ -93,8 +93,8 @@ netflix-content-analysis/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/netflix-content-analysis.git
-   cd netflix-content-analysis
+   git clone https://github.com/your-username/Netflix-Content-Analysis.git
+   cd Netflix-Content-Analysis
    ```
 
 2. Install dependencies:
